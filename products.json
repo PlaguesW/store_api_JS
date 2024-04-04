@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Chair",
+    "price": 25,
+    "company": "ikea",
+    "rating": 4
+  },
+  {
+    "name": "T-shirt",
+    "price": 50,
+    "company": "adidas",
+    "rating": 5
+  }
+]
