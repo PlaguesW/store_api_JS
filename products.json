@@ -10,5 +10,95 @@
     "price": 50,
     "company": "adidas",
     "rating": 5
+  },
+  {
+    "name": "Wood Table",
+    "price": 115,
+    "company": "ikea",
+    "rating": 4.5
+  },
+  {
+    "name": "Sneakers",
+    "price": 95,
+    "company": "nike",
+    "rating": 5
+  },
+  {
+    "name": "Wood bar",
+    "price": 15,
+    "company": "ikea",
+    "rating": 4.3
+  },
+  {
+    "name": "Trousers",
+    "price": 35,
+    "company": "lamoda",
+    "rating": 4
+  },
+  {
+    "name": "Refregerator",
+    "price": 750,
+    "company": "ikea",
+    "rating": 3.8
+  },
+  {
+    "name": "Socks",
+    "price": 5,
+    "company": "nike",
+    "rating": 5
+  },
+  {
+    "name": "Lamp",
+    "price": 25,
+    "company": "ikea",
+    "rating": 3.7
+  },
+  {
+    "name": "Pullover",
+    "price": 50,
+    "company": "lamoda",
+    "rating": 4.8
+  },
+  {
+    "name": "Chair",
+    "price": 25,
+    "company": "ikea",
+    "rating": 4
+  },
+  {
+    "name": "T-shirt",
+    "price": 50,
+    "company": "adidas",
+    "rating": 5
+  },
+  {
+    "name": "Scrap",
+    "price": 13,
+    "company": "lamoda",
+    "rating": 4.8
+  },
+  {
+    "name": "Jacket",
+    "price": 105,
+    "company": "adidas",
+    "rating": 5
+  },
+  {
+    "name": "Wooden Tray",
+    "price": 20,
+    "company": "ikea",
+    "rating": 5
+  },
+  {
+    "name": "Cap",
+    "price": 20,
+    "company": "nike",
+    "rating": 5
+  },
+  {
+    "name": "Thermal underwear",
+    "price": 50,
+    "company": "nike",
+    "rating": 5
   }
 ]
